@@ -1,0 +1,18 @@
+@font-face {font-family: "Alwyn New Rounded";
+    src: url("http://db.onlinewebfonts.com/t/6d35d8e403413bd0c3d1c256a9bc73fe.eot"); /* IE9*/
+    src: url("http://db.onlinewebfonts.com/t/6d35d8e403413bd0c3d1c256a9bc73fe.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("http://db.onlinewebfonts.com/t/6d35d8e403413bd0c3d1c256a9bc73fe.woff2") format("woff2"), /* chrome firefox */
+    url("http://db.onlinewebfonts.com/t/6d35d8e403413bd0c3d1c256a9bc73fe.woff") format("woff"), /* chrome firefox */
+    url("http://db.onlinewebfonts.com/t/6d35d8e403413bd0c3d1c256a9bc73fe.ttf") format("truetype"), /* chrome firefox opera Safari, Android, iOS 4.2+*/
+    url("http://db.onlinewebfonts.com/t/6d35d8e403413bd0c3d1c256a9bc73fe.svg#Alwyn New Rounded") format("svg"); /* iOS 4.1- */
+}
+
+
+@font-face {font-family: "Dessau-Medium";
+    src: url("http://db.onlinewebfonts.com/t/3fe5b66a20750b859d0395703212cb4d.eot"); /* IE9*/
+    src: url("http://db.onlinewebfonts.com/t/3fe5b66a20750b859d0395703212cb4d.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("http://db.onlinewebfonts.com/t/3fe5b66a20750b859d0395703212cb4d.woff2") format("woff2"), /* chrome firefox */
+    url("http://db.onlinewebfonts.com/t/3fe5b66a20750b859d0395703212cb4d.woff") format("woff"), /* chrome firefox */
+    url("http://db.onlinewebfonts.com/t/3fe5b66a20750b859d0395703212cb4d.ttf") format("truetype"), /* chrome firefox opera Safari, Android, iOS 4.2+*/
+    url("http://db.onlinewebfonts.com/t/3fe5b66a20750b859d0395703212cb4d.svg#Dessau-Medium") format("svg"); /* iOS 4.1- */
+}
