@@ -18,6 +18,14 @@
     -webkit-box-shadow: 0 10px 6px -6px #777;
        -moz-box-shadow: 0 10px 6px -6px #777;
             box-shadow: 0 10px 6px -6px #777;
+    transition: all .2s ease-in;
+  }
+
+  .scrolled{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: white;
   }
 
   .cellStyle {
